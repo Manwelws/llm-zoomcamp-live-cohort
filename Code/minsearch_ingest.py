@@ -17,7 +17,7 @@ def load_faq_data():
     
     return documents
 
-
+    
 def build_index(documents):
     index = Index(
         text_fields = ['section','question','answer'],
