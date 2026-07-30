@@ -8,6 +8,7 @@ dependencies = [
     "gitsource>=0.0.5",
     "google-genai>=2.8.0",
     "groq>=1.4.0",
+    "instructor",
     "jiter>=0.16.0",
     "jupyter>=1.1.1",
     "lock>=2018.3.25.2110",
